@@ -10,11 +10,19 @@ Per poder generar un horari calen certs paràmetres definits per l’usuari. Aqu
 Amb totes aquestes dades el programa ja serà capaç de generar el millor horari disponible o, en el cas que no existeixi tal horari, avisar l’usuari que modifiqui la configuració.
 Per cada horari generat, l’usuari podrà guardar-lo al programa (quedant associat al seu usuari).
 
-Restriccions del sistema de generació d’horaris que conté el sistema
-Hora inici i fi de classes (marc horari) per cada dia
-Dies en que es fa classe (dilluns a dissabte)
-No hores solapades entre assignatures del mateix nivell (corequisits)
-Cert dia començar tard o cert dia acabar aviat (entra dins marc horari) 
-Indeterminada: en certes hores no es pot fer classe (serveix per àpats, pauses, examens...) 
-Límit d’hores per matèria 
-Grups/classes: per exemple, el grup o classe només pot fer classe al matí o a la tarda 
+Restriccions del sistema de generació d’horaris que conté el sistema:
+
+- Hora inici i fi de classes (marc horari) per cada dia
+
+- Dies en que es fa classe (dilluns a dissabte)
+
+- No hores solapades entre assignatures del mateix nivell (corequisits)
+
+- Cert dia començar tard o cert dia acabar aviat (entra dins marc horari) 
+
+- Indeterminada: en certes hores no es pot fer classe (serveix per àpats, pauses, examens...) 
+
+- Límit d’hores per matèria 
+
+- Grups/classes: per exemple, el grup o classe només pot fer classe al matí o a la tarda 
+

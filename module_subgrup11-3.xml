@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_subgrup11-3" default="compile.module.subgrup11-3">
+  <dirname property="module.subgrup11-3.basedir" file="${ant.file.module_subgrup11-3}"/>
+  
+  <property name="module.jdk.home.subgrup11-3" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.subgrup11-3" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.subgrup11-3" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.subgrup11-3" value="-encoding UTF-8 -source 8 -target 8 ${compiler.args}"/>
+  
+  <property name="subgrup11-3.output.dir" value="${module.subgrup11-3.basedir}/out/production/subgrup11-3"/>
+  <property name="subgrup11-3.testoutput.dir" value="${module.subgrup11-3.basedir}/out/test/subgrup11-3"/>
+  
+  <path id="subgrup11-3.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="subgrup11-3.module.production.classpath">
+    <path refid="${module.jdk.classpath.subgrup11-3}"/>
+    <path refid="library.fxvalidation.classpath"/>
+    <pathelement location="${basedir}/lib/gson-2.8.5.jar"/>
+  </path>
+  
+  <path id="subgrup11-3.runtime.production.module.classpath">
+    <pathelement location="${subgrup11-3.output.dir}"/>
+    <path refid="library.fxvalidation.classpath"/>
+    <pathelement location="${basedir}/lib/gson-2.8.5.jar"/>
+  </path>
+  
+  <path id="subgrup11-3.module.classpath">
+    <path refid="${module.jdk.classpath.subgrup11-3}"/>
+    <pathelement location="${subgrup11-3.output.dir}"/>
+    <path refid="library.fxvalidation.classpath"/>
+    <pathelement location="${basedir}/lib/gson-2.8.5.jar"/>
+  </path>
+  
+  <path id="subgrup11-3.runtime.module.classpath">
+    <pathelement location="${subgrup11-3.testoutput.dir}"/>
+    <pathelement location="${subgrup11-3.output.dir}"/>
+    <path refid="library.fxvalidation.classpath"/>
+    <pathelement location="${basedir}/lib/gson-2.8.5.jar"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.subgrup11-3">
+    <patternset refid="ignored.files"/>
+    <exclude name="out/**"/>
+    <exclude name="out/artifacts/**"/>
+    <exclude name="out/artifacts/subgrup11_3_jar/**"/>
+    <exclude name="out/production/**"/>
+    <exclude name="out/production/subgrup11-3/**"/>
+    <exclude name="out/production/subgrup11-3/in/**"/>
+    <exclude name="out/production/subgrup11-3/lib/**"/>
+    <exclude name="out/production/subgrup11-3/.idea/**"/>
+    <exclude name="out/production/subgrup11-3/.idea/artifacts/**"/>
+    <exclude name="out/production/subgrup11-3/.idea/libraries/**"/>
+    <exclude name="out/production/subgrup11-3/.idea/inspectionProfiles/**"/>
+    <exclude name="out/production/subgrup11-3/Domain/**"/>
+    <exclude name="out/production/subgrup11-3/Domain/gson/**"/>
+    <exclude name="out/production/subgrup11-3/Domain/gson/typeadapters/**"/>
+    <exclude name="out/production/subgrup11-3/Domain/restriccions/**"/>
+    <exclude name="out/production/subgrup11-3/Drivers/**"/>
+    <exclude name="out/production/subgrup11-3/META-INF/**"/>
+    <exclude name="out/production/subgrup11-3/Persistance/**"/>
+    <exclude name="out/production/subgrup11-3/Presentation/**"/>
+    <exclude name="out/production/subgrup11-3/Presentation/res/**"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.subgrup11-3">
+    <patternset refid="excluded.from.module.subgrup11-3"/>
+  </patternset>
+  
+  <path id="subgrup11-3.module.sourcepath">
+    <dirset dir="${module.subgrup11-3.basedir}/../../GitHub">
+      <include name="subgrup11-3"/>
+      <include name="subgrup11-3/Presentation/res"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.subgrup11-3" depends="compile.module.subgrup11-3.production,compile.module.subgrup11-3.tests" description="Compile module subgrup11-3"/>
+  
+  <target name="compile.module.subgrup11-3.production" depends="register.custom.compilers" description="Compile module subgrup11-3; production classes">
+    <mkdir dir="${subgrup11-3.output.dir}"/>
+    <javac2 destdir="${subgrup11-3.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.subgrup11-3}/javac">
+      <compilerarg line="${compiler.args.subgrup11-3}"/>
+      <bootclasspath refid="subgrup11-3.module.bootclasspath"/>
+      <classpath refid="subgrup11-3.module.production.classpath"/>
+      <src refid="subgrup11-3.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.subgrup11-3"/>
+    </javac2>
+    
+    <copy todir="${subgrup11-3.output.dir}">
+      <fileset dir="${module.subgrup11-3.basedir}">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.subgrup11-3.basedir}/Presentation/res">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.subgrup11-3.tests" depends="register.custom.compilers,compile.module.subgrup11-3.production" description="compile module subgrup11-3; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.subgrup11-3" description="cleanup module">
+    <delete dir="${subgrup11-3.output.dir}"/>
+    <delete dir="${subgrup11-3.testoutput.dir}"/>
+  </target>
+</project>

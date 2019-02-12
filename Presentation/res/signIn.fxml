@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?package Presentation?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import com.pixelduke.javafx.validation.RequiredField?>
+<?import com.pixelduke.javafx.validation.ErrorLabel?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.layout.BorderPane?>
+<BorderPane style="-fx-background-color: #0d9aac"  prefHeight="120.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Presentation.ctrlPresentation">
+    <top>
+        <HBox alignment="BASELINE_RIGHT">
+            <Button style="-fx-background-color: transparent;" onAction="#minimizeApp">🗕</Button>
+            <Button onAction="#closeApp" style="-fx-background-color: transparent;">✖</Button>
+        </HBox>
+
+    </top>
+    <center>
+        <GridPane hgap="10" vgap="10" alignment="CENTER">
+            <padding><Insets top="25" right="50" bottom="30" left="50"/></padding>
+            <Label GridPane.columnIndex="0" GridPane.rowIndex="0" text="User Name:" textFill="white"/>
+            <TextField GridPane.columnIndex="1" GridPane.rowIndex="0" fx:id="userName" id="userName"/>
+            <Label GridPane.columnIndex="0" GridPane.rowIndex="1" text="Password:" textFill="white"/>
+            <PasswordField GridPane.columnIndex="1" GridPane.rowIndex="1" fx:id="password" id="password"/>
+            <HBox spacing="10" alignment="CENTER" GridPane.columnIndex="1" GridPane.rowIndex="2" GridPane.rowSpan="2">
+                <Button  text="Sign In" onAction="#submitPressedLogIn"/>
+            </HBox>
+            <HBox spacing="40" alignment="CENTER"  GridPane.columnIndex="1" GridPane.rowIndex="4" GridPane.rowSpan="2">
+                <Hyperlink style="-fx-text-fill:white" text="Register" onAction="#submitPressedRegister"/>
+            </HBox>
+
+            <fx:define>
+                <RequiredField fx:id="requiredUserName" >
+                    <srcControl>
+                        <fx:reference source="userName"/>
+                    </srcControl>
+                </RequiredField>
+                <RequiredField fx:id="requiredPassword" >
+                    <srcControl>
+                        <fx:reference source="password"/>
+                    </srcControl>
+                </RequiredField>
+            </fx:define>
+
+            <ErrorLabel textFill="white" GridPane.columnIndex="1" GridPane.rowIndex="6" message="Please enter your username">
+                <validator>
+                    <fx:reference source="requiredUserName"/>
+                </validator>
+            </ErrorLabel>
+            <ErrorLabel textFill="white" GridPane.columnIndex="1" GridPane.rowIndex="6" message="Please enter your password">
+                <validator>
+                    <fx:reference source="requiredPassword"/>
+                </validator>
+            </ErrorLabel>
+
+            <ErrorLabel fx:id="registerMessage" style="-fx-text-alignment: center" textFill="white" GridPane.columnIndex="1" GridPane.rowIndex="6" message="">
+
+            </ErrorLabel>
+        </GridPane>
+    </center>
+</BorderPane>
+
+

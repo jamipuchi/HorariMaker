@@ -1,0 +1,4926 @@
+{
+  "institucions": {
+    "Prova_1": {
+      "name": "Prova_1",
+      "id": 1,
+      "plans": {
+        "pla_2": {
+          "name": "pla_2",
+          "curs": 0,
+          "h": {
+            "horaIni": 8,
+            "horaFi": 20,
+            "diesLectius": [
+              "DILLUNS",
+              "DIMARTS",
+              "DIMECRES",
+              "DIJOUS",
+              "DIVENDRES"
+            ],
+            "nClasses": 60,
+            "nHoresDia": 12,
+            "primerDia": 0,
+            "ultimDia": 4,
+            "horari": [
+              [
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PAR",
+                    "num": "0",
+                    "hours": 2
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PAR",
+                    "num": "0",
+                    "hours": 2
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PAR",
+                    "num": "1",
+                    "hours": 2
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PAR",
+                    "num": "1",
+                    "hours": 2
+                  }
+                ]
+              ],
+              [
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PAR",
+                    "num": "11",
+                    "hours": 2
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PAR",
+                    "num": "11",
+                    "hours": 2
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PAR",
+                    "num": "12",
+                    "hours": 2
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PAR",
+                    "num": "12",
+                    "hours": 2
+                  }
+                ]
+              ],
+              [
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "CT",
+                    "num": "0",
+                    "hours": 2
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "CT",
+                    "num": "0",
+                    "hours": 2
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "0",
+                    "hours": 2
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "0",
+                    "hours": 2
+                  }
+                ]
+              ],
+              [
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "1",
+                    "hours": 2
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "1",
+                    "hours": 2
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "11",
+                    "hours": 2
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "11",
+                    "hours": 2
+                  }
+                ]
+              ],
+              [
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "12",
+                    "hours": 2
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "12",
+                    "hours": 2
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "0",
+                    "hours": 2
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "0",
+                    "hours": 2
+                  }
+                ]
+              ]
+            ],
+            "ocupats": [
+              [
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ]
+              ],
+              [
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ]
+              ],
+              [
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ]
+              ],
+              [
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ]
+              ],
+              [
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ]
+              ]
+            ],
+            "usosAula": {
+              "0": 10
+            },
+            "numAules": 1,
+            "iter": 4,
+            "every": 2,
+            "grupsPendents": [],
+            "assigPendents": [],
+            "assigPendentsRest": {
+              "PAR": true,
+              "CT": true,
+              "PROP": true,
+              "TC": true
+            },
+            "assignacions": {
+              "PAR": [
+                {
+                  "p": {
+                    "dia": 0,
+                    "hora": 8,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PAR",
+                    "num": "0",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 0,
+                    "hora": 9,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PAR",
+                    "num": "0",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 0,
+                    "hora": 10,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PAR",
+                    "num": "1",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 0,
+                    "hora": 11,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PAR",
+                    "num": "1",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 1,
+                    "hora": 8,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PAR",
+                    "num": "11",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 1,
+                    "hora": 9,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PAR",
+                    "num": "11",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 1,
+                    "hora": 10,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PAR",
+                    "num": "12",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 1,
+                    "hora": 11,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PAR",
+                    "num": "12",
+                    "hours": 2
+                  }
+                }
+              ],
+              "CT": [
+                {
+                  "p": {
+                    "dia": 2,
+                    "hora": 8,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "CT",
+                    "num": "0",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 2,
+                    "hora": 9,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "CT",
+                    "num": "0",
+                    "hours": 2
+                  }
+                }
+              ],
+              "PROP": [
+                {
+                  "p": {
+                    "dia": 2,
+                    "hora": 10,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "0",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 2,
+                    "hora": 11,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "0",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 3,
+                    "hora": 8,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "1",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 3,
+                    "hora": 9,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "1",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 3,
+                    "hora": 10,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "11",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 3,
+                    "hora": 11,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "11",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 4,
+                    "hora": 8,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "12",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 4,
+                    "hora": 9,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "12",
+                    "hours": 2
+                  }
+                }
+              ],
+              "TC": [
+                {
+                  "p": {
+                    "dia": 4,
+                    "hora": 10,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "0",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 4,
+                    "hora": 11,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "0",
+                    "hours": 2
+                  }
+                }
+              ]
+            },
+            "maxProfunditat": 100,
+            "diesMirats": {
+              "0": false,
+              "1": false,
+              "2": true,
+              "3": true,
+              "4": true
+            },
+            "nAssig": 4,
+            "nomPla": "pla_2",
+            "nomInst": "Prova_1"
+          },
+          "institucio": "Prova_1",
+          "idAssig": {
+            "PAR": {
+              "name": "PAR",
+              "level": 0,
+              "capacity": 0,
+              "hours": 4,
+              "restriccions": [
+                {
+                  "type": "Tardes",
+                  "id": 0
+                }
+              ],
+              "corequisits": [],
+              "cjtGrups": {
+                "id": 4,
+                "numSuperGroups": 2,
+                "lastSuperGroup": 21,
+                "allGroups": [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PAR",
+                    "num": "0",
+                    "hours": 2
+                  },
+                  {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PAR",
+                    "num": "1",
+                    "hours": 2
+                  },
+                  {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PAR",
+                    "num": "11",
+                    "hours": 2
+                  },
+                  {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PAR",
+                    "num": "12",
+                    "hours": 2
+                  }
+                ],
+                "hores": 2,
+                "numGrups": 4
+              },
+              "num": 2,
+              "num2": 2
+            },
+            "CT": {
+              "name": "CT",
+              "level": 0,
+              "capacity": 0,
+              "hours": 2,
+              "restriccions": [
+                {
+                  "type": "Tardes",
+                  "id": 0
+                }
+              ],
+              "corequisits": [],
+              "cjtGrups": {
+                "id": 1,
+                "numSuperGroups": 1,
+                "lastSuperGroup": 11,
+                "allGroups": [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "CT",
+                    "num": "0",
+                    "hours": 2
+                  }
+                ],
+                "hores": 1,
+                "numGrups": 1
+              },
+              "num": 1,
+              "num2": 1
+            },
+            "PROP": {
+              "name": "PROP",
+              "level": 0,
+              "capacity": 0,
+              "hours": 4,
+              "restriccions": [
+                {
+                  "type": "Tardes",
+                  "id": 0
+                }
+              ],
+              "corequisits": [],
+              "cjtGrups": {
+                "id": 4,
+                "numSuperGroups": 2,
+                "lastSuperGroup": 21,
+                "allGroups": [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "0",
+                    "hours": 2
+                  },
+                  {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "1",
+                    "hours": 2
+                  },
+                  {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "11",
+                    "hours": 2
+                  },
+                  {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "12",
+                    "hours": 2
+                  }
+                ],
+                "hores": 2,
+                "numGrups": 4
+              },
+              "num": 2,
+              "num2": 2
+            },
+            "TC": {
+              "name": "TC",
+              "level": 0,
+              "capacity": 0,
+              "hours": 2,
+              "restriccions": [
+                {
+                  "type": "Tardes",
+                  "id": 0
+                },
+                {
+                  "type": "Tardes",
+                  "id": 0
+                }
+              ],
+              "corequisits": [],
+              "cjtGrups": {
+                "id": 1,
+                "numSuperGroups": 1,
+                "lastSuperGroup": 11,
+                "allGroups": [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "0",
+                    "hours": 2
+                  }
+                ],
+                "hores": 1,
+                "numGrups": 1
+              },
+              "num": 1,
+              "num2": 1
+            }
+          }
+        },
+        "pla_3": {
+          "name": "pla_3",
+          "curs": 0,
+          "h": {
+            "horaIni": 8,
+            "horaFi": 20,
+            "diesLectius": [
+              "DILLUNS",
+              "DIMARTS",
+              "DIMECRES",
+              "DIJOUS",
+              "DIVENDRES"
+            ],
+            "nClasses": 60,
+            "nHoresDia": 12,
+            "primerDia": 0,
+            "ultimDia": 4,
+            "horari": [
+              [
+                [
+                  {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "1",
+                    "hours": 4
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "1",
+                    "hours": 4
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "1",
+                    "hours": 4
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "1",
+                    "hours": 4
+                  }
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ]
+              ],
+              [
+                [
+                  {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "11",
+                    "hours": 4
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "11",
+                    "hours": 4
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "11",
+                    "hours": 4
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "11",
+                    "hours": 4
+                  }
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ]
+              ],
+              [
+                [
+                  {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "12",
+                    "hours": 4
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "12",
+                    "hours": 4
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "12",
+                    "hours": 4
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "12",
+                    "hours": 4
+                  }
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ]
+              ],
+              [
+                [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "0",
+                    "hours": 3
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "0",
+                    "hours": 3
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "0",
+                    "hours": 3
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "1",
+                    "hours": 3
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "1",
+                    "hours": 3
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "1",
+                    "hours": 3
+                  }
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ]
+              ],
+              [
+                [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "0",
+                    "hours": 4
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "0",
+                    "hours": 4
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "0",
+                    "hours": 4
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "0",
+                    "hours": 4
+                  }
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ]
+              ]
+            ],
+            "ocupats": [
+              [
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ]
+              ],
+              [
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ]
+              ],
+              [
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ]
+              ],
+              [
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ]
+              ],
+              [
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ]
+              ]
+            ],
+            "usosAula": {
+              "0": 6
+            },
+            "numAules": 1,
+            "iter": 2,
+            "every": 2,
+            "grupsPendents": [
+              {
+                "idGrup": 2,
+                "idSuperGrup": 0,
+                "restriccions": [],
+                "idAssignatura": "PROP",
+                "num": "11",
+                "hours": 3
+              },
+              {
+                "idGrup": 2,
+                "idSuperGrup": 0,
+                "restriccions": [],
+                "idAssignatura": "PROP",
+                "num": "11",
+                "hours": 3
+              }
+            ],
+            "assigPendents": [],
+            "assigPendentsRest": {
+              "AC": true,
+              "PROP": true
+            },
+            "assignacions": {
+              "AC": [
+                {
+                  "p": {
+                    "dia": 4,
+                    "hora": 0,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "0",
+                    "hours": 4
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 4,
+                    "hora": 1,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "0",
+                    "hours": 4
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 4,
+                    "hora": 2,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "0",
+                    "hours": 4
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 4,
+                    "hora": 3,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "0",
+                    "hours": 4
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 0,
+                    "hora": 0,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "1",
+                    "hours": 4
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 0,
+                    "hora": 1,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "1",
+                    "hours": 4
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 0,
+                    "hora": 2,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "1",
+                    "hours": 4
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 0,
+                    "hora": 3,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "1",
+                    "hours": 4
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 1,
+                    "hora": 0,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "11",
+                    "hours": 4
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 1,
+                    "hora": 1,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "11",
+                    "hours": 4
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 1,
+                    "hora": 2,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "11",
+                    "hours": 4
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 1,
+                    "hora": 3,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "11",
+                    "hours": 4
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 2,
+                    "hora": 0,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "12",
+                    "hours": 4
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 2,
+                    "hora": 1,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "12",
+                    "hours": 4
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 2,
+                    "hora": 2,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "12",
+                    "hours": 4
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 2,
+                    "hora": 3,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "12",
+                    "hours": 4
+                  }
+                }
+              ],
+              "PROP": [
+                {
+                  "p": {
+                    "dia": 3,
+                    "hora": 0,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "0",
+                    "hours": 3
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 3,
+                    "hora": 1,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "0",
+                    "hours": 3
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 3,
+                    "hora": 2,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "0",
+                    "hours": 3
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 3,
+                    "hora": 3,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "1",
+                    "hours": 3
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 3,
+                    "hora": 4,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "1",
+                    "hours": 3
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 3,
+                    "hora": 5,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "1",
+                    "hours": 3
+                  }
+                }
+              ]
+            },
+            "maxProfunditat": 100,
+            "diesMirats": {
+              "0": true,
+              "1": true,
+              "2": true,
+              "3": true,
+              "4": true
+            },
+            "nAssig": 2,
+            "nomPla": "pla_3",
+            "nomInst": "Prova_1"
+          },
+          "institucio": "Prova_1",
+          "idAssig": {
+            "AC": {
+              "name": "AC",
+              "level": 0,
+              "capacity": 0,
+              "hours": 8,
+              "restriccions": [
+                {
+                  "type": "Matins",
+                  "id": 0
+                }
+              ],
+              "corequisits": [],
+              "cjtGrups": {
+                "id": 4,
+                "numSuperGroups": 2,
+                "lastSuperGroup": 21,
+                "allGroups": [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "0",
+                    "hours": 4
+                  },
+                  {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "1",
+                    "hours": 4
+                  },
+                  {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "11",
+                    "hours": 4
+                  },
+                  {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "12",
+                    "hours": 4
+                  }
+                ],
+                "hores": 4,
+                "numGrups": 4
+              },
+              "num": 2,
+              "num2": 2
+            },
+            "PROP": {
+              "name": "PROP",
+              "level": 0,
+              "capacity": 0,
+              "hours": 6,
+              "restriccions": [
+                {
+                  "type": "Matins",
+                  "id": 0
+                }
+              ],
+              "corequisits": [],
+              "cjtGrups": {
+                "id": 4,
+                "numSuperGroups": 2,
+                "lastSuperGroup": 21,
+                "allGroups": [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "0",
+                    "hours": 3
+                  },
+                  {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "1",
+                    "hours": 3
+                  },
+                  {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "11",
+                    "hours": 3
+                  },
+                  {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "12",
+                    "hours": 3
+                  }
+                ],
+                "hores": 3,
+                "numGrups": 4
+              },
+              "num": 2,
+              "num2": 2
+            }
+          }
+        },
+        "pla_4": {
+          "name": "pla_4",
+          "curs": 0,
+          "h": {
+            "horaIni": 8,
+            "horaFi": 20,
+            "diesLectius": [
+              "DILLUNS",
+              "DIMARTS",
+              "DIMECRES",
+              "DIJOUS",
+              "DIVENDRES"
+            ],
+            "nClasses": 60,
+            "nHoresDia": 12,
+            "primerDia": 0,
+            "ultimDia": 4,
+            "horari": [
+              [
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ]
+              ],
+              [
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ]
+              ],
+              [
+                [
+                  {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "1",
+                    "hours": 2
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "1",
+                    "hours": 2
+                  }
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ]
+              ],
+              [
+                [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "0",
+                    "hours": 2
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "0",
+                    "hours": 2
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "11",
+                    "hours": 2
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "11",
+                    "hours": 2
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "1",
+                    "hours": 2
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "1",
+                    "hours": 2
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "11",
+                    "hours": 2
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "11",
+                    "hours": 2
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "12",
+                    "hours": 2
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "12",
+                    "hours": 2
+                  }
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ]
+              ],
+              [
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "0",
+                    "hours": 2
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "0",
+                    "hours": 2
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "12",
+                    "hours": 2
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "12",
+                    "hours": 2
+                  }
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ]
+              ]
+            ],
+            "ocupats": [
+              [
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ]
+              ],
+              [
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ]
+              ],
+              [
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ]
+              ],
+              [
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ]
+              ],
+              [
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ]
+              ]
+            ],
+            "usosAula": {
+              "0": 8
+            },
+            "numAules": 1,
+            "iter": 2,
+            "every": 2,
+            "grupsPendents": [],
+            "assigPendents": [],
+            "assigPendentsRest": {
+              "PROP": true,
+              "TC": true
+            },
+            "assignacions": {
+              "PROP": [
+                {
+                  "p": {
+                    "dia": 3,
+                    "hora": 0,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "0",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 3,
+                    "hora": 1,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "0",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 2,
+                    "hora": 0,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "1",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 2,
+                    "hora": 1,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "1",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 3,
+                    "hora": 2,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "11",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 3,
+                    "hora": 3,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "11",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 3,
+                    "hora": 8,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "12",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 3,
+                    "hora": 9,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "12",
+                    "hours": 2
+                  }
+                }
+              ],
+              "TC": [
+                {
+                  "p": {
+                    "dia": 4,
+                    "hora": 4,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "0",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 4,
+                    "hora": 5,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "0",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 3,
+                    "hora": 4,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "1",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 3,
+                    "hora": 5,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "1",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 3,
+                    "hora": 6,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "11",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 3,
+                    "hora": 7,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "11",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 4,
+                    "hora": 6,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "12",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 4,
+                    "hora": 7,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "12",
+                    "hours": 2
+                  }
+                }
+              ]
+            },
+            "maxProfunditat": 100,
+            "diesMirats": {
+              "0": false,
+              "1": false,
+              "2": false,
+              "3": false,
+              "4": true
+            },
+            "nAssig": 2,
+            "nomPla": "pla_4",
+            "nomInst": "Prova_1"
+          },
+          "institucio": "Prova_1",
+          "idAssig": {
+            "PROP": {
+              "name": "PROP",
+              "level": 0,
+              "capacity": 0,
+              "hours": 4,
+              "restriccions": [
+                {
+                  "type": "DiaIHora",
+                  "dia": {
+                    "type": "Dia",
+                    "diaProhibit": "DIMARTS",
+                    "id": 0
+                  },
+                  "hora": {
+                    "type": "Hores",
+                    "horaInici": 12,
+                    "horaFi": 16,
+                    "id": 0
+                  },
+                  "id": 0
+                },
+                {
+                  "type": "DiaIHora",
+                  "dia": {
+                    "type": "Dia",
+                    "diaProhibit": "DIJOUS",
+                    "id": 0
+                  },
+                  "hora": {
+                    "type": "Hores",
+                    "horaInici": 12,
+                    "horaFi": 16,
+                    "id": 0
+                  },
+                  "id": 0
+                }
+              ],
+              "corequisits": [],
+              "cjtGrups": {
+                "id": 4,
+                "numSuperGroups": 2,
+                "lastSuperGroup": 21,
+                "allGroups": [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "0",
+                    "hours": 2
+                  },
+                  {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "1",
+                    "hours": 2
+                  },
+                  {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "11",
+                    "hours": 2
+                  },
+                  {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "12",
+                    "hours": 2
+                  }
+                ],
+                "hores": 2,
+                "numGrups": 4
+              },
+              "num": 2,
+              "num2": 2
+            },
+            "TC": {
+              "name": "TC",
+              "level": 0,
+              "capacity": 0,
+              "hours": 4,
+              "restriccions": [
+                {
+                  "type": "DiaIHora",
+                  "dia": {
+                    "type": "Dia",
+                    "diaProhibit": "DILLUNS",
+                    "id": 0
+                  },
+                  "hora": {
+                    "type": "Hores",
+                    "horaInici": 8,
+                    "horaFi": 12,
+                    "id": 0
+                  },
+                  "id": 0
+                },
+                {
+                  "type": "DiaIHora",
+                  "dia": {
+                    "type": "Dia",
+                    "diaProhibit": "DIMECRES",
+                    "id": 0
+                  },
+                  "hora": {
+                    "type": "Hores",
+                    "horaInici": 8,
+                    "horaFi": 12,
+                    "id": 0
+                  },
+                  "id": 0
+                },
+                {
+                  "type": "DiaIHora",
+                  "dia": {
+                    "type": "Dia",
+                    "diaProhibit": "DIVENDRES",
+                    "id": 0
+                  },
+                  "hora": {
+                    "type": "Hores",
+                    "horaInici": 8,
+                    "horaFi": 12,
+                    "id": 0
+                  },
+                  "id": 0
+                }
+              ],
+              "corequisits": [],
+              "cjtGrups": {
+                "id": 4,
+                "numSuperGroups": 2,
+                "lastSuperGroup": 21,
+                "allGroups": [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "0",
+                    "hours": 2
+                  },
+                  {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "1",
+                    "hours": 2
+                  },
+                  {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "11",
+                    "hours": 2
+                  },
+                  {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "12",
+                    "hours": 2
+                  }
+                ],
+                "hores": 2,
+                "numGrups": 4
+              },
+              "num": 2,
+              "num2": 2
+            }
+          }
+        },
+        "pla_1": {
+          "name": "pla_1",
+          "curs": 0,
+          "h": {
+            "horaIni": 8,
+            "horaFi": 20,
+            "diesLectius": [
+              "DILLUNS",
+              "DIMARTS",
+              "DIMECRES",
+              "DIJOUS",
+              "DIVENDRES"
+            ],
+            "nClasses": 60,
+            "nHoresDia": 12,
+            "primerDia": 0,
+            "ultimDia": 4,
+            "horari": [
+              [
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ]
+              ],
+              [
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ]
+              ],
+              [
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ]
+              ],
+              [
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "0",
+                    "hours": 4
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "0",
+                    "hours": 4
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "0",
+                    "hours": 4
+                  }
+                ],
+                [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "0",
+                    "hours": 4
+                  }
+                ]
+              ],
+              [
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ],
+                [
+                  null
+                ]
+              ]
+            ],
+            "ocupats": [
+              [
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ]
+              ],
+              [
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ]
+              ],
+              [
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ]
+              ],
+              [
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ],
+                [
+                  true
+                ]
+              ],
+              [
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ],
+                [
+                  false
+                ]
+              ]
+            ],
+            "usosAula": {
+              "0": 1
+            },
+            "numAules": 1,
+            "iter": 1,
+            "every": 2,
+            "grupsPendents": [],
+            "assigPendents": [],
+            "assigPendentsRest": {
+              "PROP": true
+            },
+            "assignacions": {
+              "PROP": [
+                {
+                  "p": {
+                    "dia": 3,
+                    "hora": 8,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "0",
+                    "hours": 4
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 3,
+                    "hora": 9,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "0",
+                    "hours": 4
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 3,
+                    "hora": 10,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "0",
+                    "hours": 4
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 3,
+                    "hora": 11,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "0",
+                    "hours": 4
+                  }
+                }
+              ]
+            },
+            "maxProfunditat": 100,
+            "diesMirats": {
+              "0": false,
+              "1": false,
+              "2": false,
+              "3": true,
+              "4": false
+            },
+            "nAssig": 1,
+            "nomPla": "pla_1",
+            "nomInst": "Prova_1"
+          },
+          "institucio": "Prova_1",
+          "idAssig": {
+            "PROP": {
+              "name": "PROP",
+              "level": 0,
+              "capacity": 0,
+              "hours": 4,
+              "restriccions": [
+                {
+                  "type": "Tardes",
+                  "id": 0
+                }
+              ],
+              "corequisits": [],
+              "cjtGrups": {
+                "id": 1,
+                "numSuperGroups": 1,
+                "lastSuperGroup": 11,
+                "allGroups": [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "0",
+                    "hours": 4
+                  }
+                ],
+                "hores": 2,
+                "numGrups": 1
+              },
+              "num": 1,
+              "num2": 1
+            }
+          }
+        }
+      },
+      "aules": [
+        {
+          "nom": "A1",
+          "capacity": 0,
+          "tipus": "T",
+          "restriccions": [],
+          "idAula": 0,
+          "nomInst": "Prova_1"
+        }
+      ]
+    },
+    "Prova_2": {
+      "name": "Prova_2",
+      "id": 4,
+      "plans": {
+        "Pla_1": {
+          "name": "Pla_1",
+          "curs": 0,
+          "h": {
+            "horaIni": 8,
+            "horaFi": 20,
+            "diesLectius": [
+              "DILLUNS",
+              "DIMARTS",
+              "DIMECRES",
+              "DIJOUS",
+              "DIVENDRES"
+            ],
+            "nClasses": 60,
+            "nHoresDia": 12,
+            "primerDia": 0,
+            "ultimDia": 4,
+            "horari": [
+              [
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "1",
+                    "hours": 2
+                  }
+                ],
+                [
+                  null,
+                  {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "1",
+                    "hours": 2
+                  }
+                ],
+                [
+                  null,
+                  {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "11",
+                    "hours": 2
+                  }
+                ],
+                [
+                  null,
+                  {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "11",
+                    "hours": 2
+                  }
+                ]
+              ],
+              [
+                [
+                  {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "11",
+                    "hours": 2
+                  },
+                  null
+                ],
+                [
+                  {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "11",
+                    "hours": 2
+                  },
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "0",
+                    "hours": 2
+                  }
+                ],
+                [
+                  null,
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "0",
+                    "hours": 2
+                  }
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ]
+              ],
+              [
+                [
+                  {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "1",
+                    "hours": 2
+                  },
+                  null
+                ],
+                [
+                  {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "1",
+                    "hours": 2
+                  },
+                  null
+                ],
+                [
+                  {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "12",
+                    "hours": 2
+                  },
+                  null
+                ],
+                [
+                  {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "12",
+                    "hours": 2
+                  },
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ]
+              ],
+              [
+                [
+                  {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "12",
+                    "hours": 2
+                  },
+                  null
+                ],
+                [
+                  {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "12",
+                    "hours": 2
+                  },
+                  null
+                ],
+                [
+                  {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "1",
+                    "hours": 2
+                  },
+                  null
+                ],
+                [
+                  {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "1",
+                    "hours": 2
+                  },
+                  null
+                ],
+                [
+                  {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "11",
+                    "hours": 2
+                  },
+                  null
+                ],
+                [
+                  {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "11",
+                    "hours": 2
+                  },
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ]
+              ],
+              [
+                [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "0",
+                    "hours": 2
+                  },
+                  null
+                ],
+                [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "0",
+                    "hours": 2
+                  },
+                  null
+                ],
+                [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "0",
+                    "hours": 2
+                  },
+                  null
+                ],
+                [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "0",
+                    "hours": 2
+                  },
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "12",
+                    "hours": 2
+                  }
+                ],
+                [
+                  null,
+                  {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "12",
+                    "hours": 2
+                  }
+                ],
+                [
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  null
+                ]
+              ]
+            ],
+            "ocupats": [
+              [
+                [
+                  false,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ],
+                [
+                  false,
+                  true
+                ],
+                [
+                  false,
+                  true
+                ],
+                [
+                  false,
+                  true
+                ],
+                [
+                  false,
+                  true
+                ]
+              ],
+              [
+                [
+                  true,
+                  false
+                ],
+                [
+                  true,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ],
+                [
+                  false,
+                  true
+                ],
+                [
+                  false,
+                  true
+                ],
+                [
+                  false,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ]
+              ],
+              [
+                [
+                  true,
+                  false
+                ],
+                [
+                  true,
+                  false
+                ],
+                [
+                  true,
+                  false
+                ],
+                [
+                  true,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ]
+              ],
+              [
+                [
+                  true,
+                  false
+                ],
+                [
+                  true,
+                  false
+                ],
+                [
+                  true,
+                  false
+                ],
+                [
+                  true,
+                  false
+                ],
+                [
+                  true,
+                  false
+                ],
+                [
+                  true,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ]
+              ],
+              [
+                [
+                  true,
+                  false
+                ],
+                [
+                  true,
+                  false
+                ],
+                [
+                  true,
+                  false
+                ],
+                [
+                  true,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ],
+                [
+                  false,
+                  true
+                ],
+                [
+                  false,
+                  true
+                ],
+                [
+                  false,
+                  false
+                ],
+                [
+                  false,
+                  false
+                ]
+              ]
+            ],
+            "usosAula": {
+              "0": 8,
+              "1": 4
+            },
+            "numAules": 2,
+            "iter": 3,
+            "every": 2,
+            "grupsPendents": [],
+            "assigPendents": [],
+            "assigPendentsRest": {
+              "AC": true,
+              "PROP": true,
+              "TC": true
+            },
+            "assignacions": {
+              "AC": [
+                {
+                  "p": {
+                    "dia": 1,
+                    "hora": 8,
+                    "aula": 1
+                  },
+                  "g": {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "0",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 1,
+                    "hora": 9,
+                    "aula": 1
+                  },
+                  "g": {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "0",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 0,
+                    "hora": 8,
+                    "aula": 1
+                  },
+                  "g": {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "1",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 0,
+                    "hora": 9,
+                    "aula": 1
+                  },
+                  "g": {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "1",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 0,
+                    "hora": 10,
+                    "aula": 1
+                  },
+                  "g": {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "11",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 0,
+                    "hora": 11,
+                    "aula": 1
+                  },
+                  "g": {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "11",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 4,
+                    "hora": 8,
+                    "aula": 1
+                  },
+                  "g": {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "12",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 4,
+                    "hora": 9,
+                    "aula": 1
+                  },
+                  "g": {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "12",
+                    "hours": 2
+                  }
+                }
+              ],
+              "PROP": [
+                {
+                  "p": {
+                    "dia": 4,
+                    "hora": 0,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "0",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 4,
+                    "hora": 1,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "0",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 2,
+                    "hora": 0,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "1",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 2,
+                    "hora": 1,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "1",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 1,
+                    "hora": 0,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "11",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 1,
+                    "hora": 1,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "11",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 3,
+                    "hora": 0,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "12",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 3,
+                    "hora": 1,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "12",
+                    "hours": 2
+                  }
+                }
+              ],
+              "TC": [
+                {
+                  "p": {
+                    "dia": 4,
+                    "hora": 2,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "0",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 4,
+                    "hora": 3,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "0",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 3,
+                    "hora": 2,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "1",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 3,
+                    "hora": 3,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "1",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 3,
+                    "hora": 4,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "11",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 3,
+                    "hora": 5,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "11",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 2,
+                    "hora": 2,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "12",
+                    "hours": 2
+                  }
+                },
+                {
+                  "p": {
+                    "dia": 2,
+                    "hora": 3,
+                    "aula": 0
+                  },
+                  "g": {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "12",
+                    "hours": 2
+                  }
+                }
+              ]
+            },
+            "maxProfunditat": 100,
+            "diesMirats": {
+              "0": false,
+              "1": false,
+              "2": false,
+              "3": false,
+              "4": true
+            },
+            "nAssig": 3,
+            "nomPla": "Pla_1",
+            "nomInst": "Prova_2"
+          },
+          "institucio": "Prova_2",
+          "idAssig": {
+            "AC": {
+              "name": "AC",
+              "level": 0,
+              "capacity": 0,
+              "hours": 4,
+              "restriccions": [
+                {
+                  "type": "Tardes",
+                  "id": 0
+                }
+              ],
+              "corequisits": [],
+              "cjtGrups": {
+                "id": 4,
+                "numSuperGroups": 2,
+                "lastSuperGroup": 21,
+                "allGroups": [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "0",
+                    "hours": 2
+                  },
+                  {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "1",
+                    "hours": 2
+                  },
+                  {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "11",
+                    "hours": 2
+                  },
+                  {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "AC",
+                    "num": "12",
+                    "hours": 2
+                  }
+                ],
+                "hores": 2,
+                "numGrups": 4
+              },
+              "num": 2,
+              "num2": 2
+            },
+            "PROP": {
+              "name": "PROP",
+              "level": 0,
+              "capacity": 0,
+              "hours": 4,
+              "restriccions": [],
+              "corequisits": [],
+              "cjtGrups": {
+                "id": 4,
+                "numSuperGroups": 2,
+                "lastSuperGroup": 21,
+                "allGroups": [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "0",
+                    "hours": 2
+                  },
+                  {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "1",
+                    "hours": 2
+                  },
+                  {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "11",
+                    "hours": 2
+                  },
+                  {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "PROP",
+                    "num": "12",
+                    "hours": 2
+                  }
+                ],
+                "hores": 2,
+                "numGrups": 4
+              },
+              "num": 2,
+              "num2": 2
+            },
+            "TC": {
+              "name": "TC",
+              "level": 0,
+              "capacity": 0,
+              "hours": 4,
+              "restriccions": [],
+              "corequisits": [],
+              "cjtGrups": {
+                "id": 4,
+                "numSuperGroups": 2,
+                "lastSuperGroup": 21,
+                "allGroups": [
+                  {
+                    "idGrup": 0,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "0",
+                    "hours": 2
+                  },
+                  {
+                    "idGrup": 1,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "1",
+                    "hours": 2
+                  },
+                  {
+                    "idGrup": 2,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "11",
+                    "hours": 2
+                  },
+                  {
+                    "idGrup": 3,
+                    "idSuperGrup": 0,
+                    "restriccions": [],
+                    "idAssignatura": "TC",
+                    "num": "12",
+                    "hours": 2
+                  }
+                ],
+                "hores": 2,
+                "numGrups": 4
+              },
+              "num": 2,
+              "num2": 2
+            }
+          }
+        }
+      },
+      "aules": [
+        {
+          "nom": "A1",
+          "capacity": 0,
+          "tipus": "Lab",
+          "restriccions": [
+            {
+              "type": "Matins",
+              "id": 0
+            }
+          ],
+          "idAula": 2,
+          "nomInst": "Prova_2"
+        },
+        {
+          "nom": "A2",
+          "capacity": 0,
+          "tipus": "Teo",
+          "restriccions": [
+            {
+              "type": "Tardes",
+              "id": 0
+            }
+          ],
+          "idAula": 3,
+          "nomInst": "Prova_2"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import java.net.URL?>
+<?import javafx.scene.text.Text?>
+<BorderPane xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml" fx:controller="Presentation.ctrlPresentation">
+    <top>
+        <HBox style="-fx-background-color:#dcdcdc " alignment="BASELINE_RIGHT">
+                <Button style="-fx-background-color: transparent;" onAction="#minimizeApp">🗕</Button>
+                <Button onAction="#closeApp" style="-fx-background-color: transparent;">✖</Button>
+        </HBox>
+    </top>
+    <center>
+        <BorderPane>
+            <top>
+                <HBox styleClass="header-section" style="-fx-spacing:30; -fx-background-color: 	#dcdcdc; -fx-padding: 15; ">
+                    <!--<BreadCrumbBar fx:id="instPla">-->
+                    <HBox style="-fx-spacing:5" alignment="BASELINE_CENTER">
+                        <Label style="-fx-font-size: 20">Institució</Label>
+                        <ChoiceBox onAction="#actualitzaInst" prefWidth="200" fx:id="instList">
+                        </ChoiceBox>
+
+                        <Button onAction="#addInstitucio" text="+" ></Button>
+                    </HBox>
+
+                    <HBox style="-fx-spacing:5" alignment="BASELINE_CENTER">
+                        <Label style="-fx-font-size: 20" >Pla d'estudis</Label>
+                        <ChoiceBox onAction="#actualitzaPla" prefWidth="200" fx:id="plaList">
+                        </ChoiceBox>
+                        <Button onAction="#addPlaEstudis"  text="+" ></Button>
+
+                    </HBox>
+                </HBox>
+
+            </top>
+            <left>
+                <VBox  style="-fx-spacing:20; -fx-background-color: 	#efefef; -fx-padding: 30">
+                    <Text style="-fx-font-size: 30">Assignatures</Text>
+                    <VBox style="-fx-spacing: 5">
+                        <HBox style="-fx-spacing: 5">
+                            <ChoiceBox onAction="#actualitzaAssig" fx:id="assigList" style="-fx-min-width: 180">
+                            </ChoiceBox>
+                            <Button onAction="#editAssig" style="-fx-pref-width: 32" text="✎" ></Button>
+                            <Button onAction="#borraAssig" style="-fx-pref-width: 32" text="🗑" ></Button>
+
+                        </HBox>
+                            <Button onAction="#creaAssignatura" style="-fx-pref-width: 70; -fx-max-width: 80" text="Nova Assignatura" ></Button>
+                    </VBox>
+                    <VBox style="-fx-background-color: #f5f5f5; -fx-padding: 20; -fx-spacing: 20; -fx-min-width:250 ">
+                        <Text style="-fx-font-size: 20">Grups</Text>
+                        <HBox style="-fx-spacing: 5">
+                            <ChoiceBox onAction="#actualitzaGrup" fx:id="grupList">
+                            </ChoiceBox>
+                            <Button onAction="#addRestriccioGrup" style="-fx-pref-width: 32" minWidth="90" text="Restriccions" ></Button>
+                        </HBox>
+                        <Button style="-fx-alignment:center" onAction="#creaGrups" text="Crea grups"></Button>
+                    </VBox>
+                    <Separator></Separator>
+                    <Text style="-fx-font-size: 30">Aules</Text>
+
+                    <VBox style="-fx-spacing: 5">
+                        <HBox style="-fx-spacing: 5">
+                            <ChoiceBox onAction="#actualitzaAula" fx:id="aulaList" style="-fx-min-width: 180" >
+                            </ChoiceBox>
+                            <Button onAction="#editAula" style="-fx-pref-width: 32" text="✎" ></Button>
+                            <Button onAction="#borraAula" style="-fx-pref-width: 32" text="🗑" ></Button>
+
+                        </HBox>
+                        <Button onAction="#creaAula" style="-fx-pref-width: 70; -fx-max-width: 80" text="Nova Aula" ></Button>
+                    </VBox>
+                    <Separator></Separator>
+                    <Button onAction="#displayManual" prefWidth="250" alignment="BASELINE_CENTER">Manual</Button>
+                    <Button onAction="#displayStuff" prefWidth="250" alignment="BASELINE_CENTER">Veure Tot</Button>
+                    <HBox style="-fx-spacing: 10">
+                        <Button onAction="#generateHorari" fx:id="BotoHorari" prefWidth="210" alignment="BASELINE_CENTER">Generar Horari</Button>
+                        <Button onAction="#menuHorari" style="-fx-spacing: 10; -fx-pref-width: 30">⚙</Button>
+                    </HBox>
+
+                </VBox>
+            </left>
+            <center>
+                <VBox fx:id="side"  style="-fx-background-color: #ffffff;-fx-spacing: 40">
+                    <VBox style="-fx-padding: 30">
+                        <Label style="-fx-font-size: 40">
+                            Hola, aquí us explicarem com funciona tot aixo
+                        </Label>
+                        <Label style="-fx-padding: 0;-fx-font-size: 30">
+                            El tutorial anirà aqui
+                        </Label>
+                        <Label style="-fx-padding: 0;-fx-font-size: 30">
+                            Ens agrada que funcioni be
+                        </Label>
+                    </VBox>
+                </VBox>
+            </center>
+
+            <stylesheets>
+                <URL value="@style.css" />
+            </stylesheets>
+        </BorderPane>
+    </center>
+</BorderPane>

@@ -1,7 +1,7 @@
 # HorariMaker
 En aquest projecte jo, l'Arnau Buch i en Miquel Prieto hem fet un programa per generar horaris.
 
-##Funcionalidats
+## Funcionalidats
 La nostra aplicació és una eina per generar horaris per tot tipus d’institucions educatives.
 Al obrir-la l’usuari podrà crear una institució o sel·leccionar la seva, la qual el programa carregarà des de la “base de dades”.
 Un cop fet això haurà d’entrar a la seva sessió, si existeix, dins de la institució. Només el creador de la institució podrà crear nous usuaris i assignar permisos (creació d’usuaris, creació d’assignatures,...).
